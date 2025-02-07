@@ -3,3 +3,5 @@ arquivo novo
 teste novo
 
 teste 2
+
+teste 3
